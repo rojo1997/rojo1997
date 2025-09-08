@@ -28,6 +28,8 @@
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
+![Karpenter](https://img.shields.io/badge/Karpenter-3E6DB0?style=for-the-badge&logo=karpenter&logoColor=white)
+![Knative](https://img.shields.io/badge/Knative-0865AD?style=for-the-badge&logo=knative&logoColor=white)
 
 ---
 
